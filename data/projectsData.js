@@ -1,11 +1,11 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    title: 'AI Trading Engine',
+    description: `Imagine being able to travel into the future to predict the
+    price and trend of a stock before you bought it? The Borgas app has been
+    built to provide the next best thing to time travel.`,
     imgSrc: '/static/images/projects/google.png',
-    href: 'https://www.salkabay.com',
+    href: '/blog/apps-borgas',
   },
   {
     title: 'The Time Machine',
