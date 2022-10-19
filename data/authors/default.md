@@ -9,8 +9,19 @@ linkedin: https://www.linkedin.com/in/salkabay
 github: https://github.com/salska
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Sal Kabay has a PhD in Biomedical Engineering and a leading technologist who specialises in Digital Enablement for leading Clients. You may be seeking a trusted advisor and someone who has a proven delivery track record.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+**Are you embarking on a significant business change and need to mobilise productive and enthusiastic people
+to rapidly deliver new structures, processes or technologies?**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My skills are in strategy, architecture, systems integration and technical delivery: engaging people to
+formalise ideas to deliver change in an agile and enjoyable way.
+My experience is in complex organisational situations that are facing severe business and technology
+pressures: enabling the significant changes in both capabilities and mindset needed to adapt successfully in
+the digital world.
+
+I adopt a start-up attitude and collaborative consultancy ethos to accelerate business change, technology
+refresh and digital transformation.
+
+**Recently, I was responsible for modernising a strategic digital identity solution that allowed Scottish citizens
+to safely and securely access all public sector services.**
