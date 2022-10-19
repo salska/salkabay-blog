@@ -1,12 +1,12 @@
 ---
 name: Sal Kabay
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+avatar: /static/images/salkabay.jpeg
+occupation: Technology Consultant and Developer
+company: salkabay.com
+email: sal@emetrix.biz
+twitter: https://twitter.com/emetrix
+linkedin: https://www.linkedin.com/in/salkabay
+github: https://github.com/salska
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
