@@ -6,7 +6,7 @@ draft: false
 summary: A python based trading app using AI pattern matching to identify trading opportiuities.
 authors: ['default']
 ---
-### *A machine learning-based methodology for pattern matching of historical and live stocks data and key technical indicators is used to guide investment decisions.*
+### A machine learning-based methodology for pattern matching of historical and live stocks data and key technical indicators is used to guide investment decisions.
 
 # Context
 Many speculators are attracted to the wealth creation potential of financial
