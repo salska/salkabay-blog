@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'blog microsite',
   author: 'Sal Kabay',
   headerTitle: 'salkabay',
-  description: 'A blog created by Sal Kabay with Next.js and Tailwind.css',
+  description: 'Articles and Insights',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.salkabay.com',
