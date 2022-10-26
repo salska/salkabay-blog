@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'blog microsite',
   author: 'Sal Kabay',
   headerTitle: 'salkabay',
-  description: 'Articles and Insights',
+  description: 'Turn to my real-time blog, articles and expert insights that are transforming and automating digital enterprises',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.salkabay.com',
