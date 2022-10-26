@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com/salska',
   twitter: 'https://twitter.com/Twitter/emetrix',
   facebook: 'https://facebook.com/emetrix',
-  youtube: 'https://www.youtube.com/channel/UCN1jxDRBU9tz1H3HyoARoaQ',
+  youtube: 'https://www.youtube.com/@salkabay',
   linkedin: 'https://www.linkedin.com/in/salkabay',
   locale: 'en-UK',
   analytics: {
