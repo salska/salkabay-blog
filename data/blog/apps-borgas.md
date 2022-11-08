@@ -1,7 +1,7 @@
 ---
 title: Borgas
 date: '2022-10-19'
-tags: ['trading', 'python', 'shop']
+tags: ['trading', 'python', 'borgas']
 draft: false
 summary: A python based trading app using AI pattern matching to identify trading opportiuities.
 authors: ['default']
